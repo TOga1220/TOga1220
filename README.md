@@ -1,7 +1,7 @@
 ## :information_source: Information
-Name: Tomohiro Ogawa
-Location: Chiba, Japan
-Job: Backend Engineer
+- Name: Tomohiro Ogawa
+- Location: Chiba, Japan
+- Job: Backend Engineer
 
 <br/>
 
